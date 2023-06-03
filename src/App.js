@@ -9,25 +9,25 @@ const DUMMY = [
     id: 'e2',
     title: 'kanda',
     date: new Date(2020, 2, 4),
-    amount: '$252',
+    amount: 252,
   },
   {
     id: 'e3',
     title: 'sweet potato',
     date: new Date(2021, 5, 25),
-    amount: '$252',
+    amount: 252,
   },
   {
     id: 'e4',
     title: 'chocolate',
     date: new Date(2021, 5, 25),
-    amount: '$252',
+    amount: 252,
   },
   {
     id: 'e5',
     title: 'choco',
     date: new Date(2023, 5, 25),
-    amount: '$252',
+    amount: 252,
   },
 ];
 
